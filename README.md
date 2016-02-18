@@ -1,10 +1,10 @@
 # ShellHiddenFolder
-A shell script to show or hidden files in your Finder.
+A shell script to show or hidden files in your Mac.
 
 ## Instructions
 Create a service is realy easy, you just need following this steps:
 
-1. Open the automator(/applications) in your mac;
+1. Open the automator(/applications) in your Mac;
 
 2. Choose the services option for your document;
 ![Choose services option](https://github.com/diogoalbuquerque/ShellHiddenFolder/blob/master/img/choose-service.png "Choose services option")
