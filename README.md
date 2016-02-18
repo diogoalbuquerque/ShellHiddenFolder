@@ -28,4 +28,3 @@ killall Finder
 ```
 
 Now Save the file!!! 
-
